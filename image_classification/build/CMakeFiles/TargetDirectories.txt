@@ -1,0 +1,3 @@
+C:/Users/Garvit/OneDrive/Desktop/image_classification/image_classification/build/CMakeFiles/TFLiteImageClassification.dir
+C:/Users/Garvit/OneDrive/Desktop/image_classification/image_classification/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Garvit/OneDrive/Desktop/image_classification/image_classification/build/CMakeFiles/ZERO_CHECK.dir
